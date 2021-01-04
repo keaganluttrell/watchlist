@@ -23,6 +23,11 @@
     "webpack-cli": "^3.3.9"
   },
   "dependencies": {
-    "nodemon": "^1.19.3"
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^1.19.4",
+    "react-moment": "^1.1.1",
+    "react-three-fiber": "^5.3.10",
+    "three": "^0.124.0"
   }
 }
