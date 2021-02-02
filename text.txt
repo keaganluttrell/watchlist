@@ -1,0 +1,41 @@
++---------------+
+| **Completed** |
++---------------+
+X Item View a Component
+X Set Up sliderHandler
+X Add movies to list from App/List view
+X Hook up search to searched List
+X Pointer for current list and responsive
+X Fix Long titles on Videos
+X Handle No Reviews
+X handle movies by actor
+X Handle No Similar Videos
+X Handle No Cast
+X Fix pointer when in ItemView
+X build the back end
+X verify add button responds to saved list on get request
+X run down pointer issue
+X ADD the LOGO
+
++----------+
+| **ToDo** |
++----------+
+- Set up for you list from the backend to update as saved items updates
+- set a backbutton to go back to search results
+- NAV background color transition
+- Drop down suggestions on search input
+- Handle Empty Lists - Your List, Searched List, For You List
+- click to display full review
+- Change Main View from Column to Grid? Only for desktop screends
+- Make Title Clickable to go to homepage
+
++-------------------+
+| **Down the Road** |
++-------------------+
+ - Write and Post Reviews
+ - Show multiple Videos
+ - Save and List Previous Searches
+ - jump to each new div from the start
+ - Sticky header / footer -> set window to top of page on nav button click
+ - Footer for mobile ??
+- see about making all the state itemView its own Obj and pass it
