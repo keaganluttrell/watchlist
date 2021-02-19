@@ -2,6 +2,9 @@ import React from 'react';
 import Nav from './Nav';
 import View from './View';
 import API from '../data/api';
+// comment out line above
+// const API = YOUR_API_KEY_HERE
+// more info https://developers.themoviedb.org/3/getting-started/introduction
 
 class App extends React.Component {
   constructor(props) {
