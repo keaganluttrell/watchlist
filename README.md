@@ -4,7 +4,7 @@
 
 ## About
 
-* This app uses an The Movie Database (TMDB) API allows users to search, watch trailers, and save their favorite films.
+* This app uses The Movie Database (TMDB) API allows users to search, watch trailers, and save their favorite films.
 * It is a full stack application that uses React, Express and MySQL.
 
 ## Installation
